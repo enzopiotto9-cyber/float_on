@@ -1,0 +1,15 @@
+C:\Users\DTG-2026\Desktop\float_on\Program_02\bin\Debug\net10.0\Program_02.exe
+C:\Users\DTG-2026\Desktop\float_on\Program_02\bin\Debug\net10.0\Program_02.deps.json
+C:\Users\DTG-2026\Desktop\float_on\Program_02\bin\Debug\net10.0\Program_02.runtimeconfig.json
+C:\Users\DTG-2026\Desktop\float_on\Program_02\bin\Debug\net10.0\Program_02.dll
+C:\Users\DTG-2026\Desktop\float_on\Program_02\bin\Debug\net10.0\Program_02.pdb
+C:\Users\DTG-2026\Desktop\float_on\Program_02\obj\Debug\net10.0\Program_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTG-2026\Desktop\float_on\Program_02\obj\Debug\net10.0\Program_02.AssemblyInfoInputs.cache
+C:\Users\DTG-2026\Desktop\float_on\Program_02\obj\Debug\net10.0\Program_02.AssemblyInfo.cs
+C:\Users\DTG-2026\Desktop\float_on\Program_02\obj\Debug\net10.0\Program_02.csproj.CoreCompileInputs.cache
+C:\Users\DTG-2026\Desktop\float_on\Program_02\obj\Debug\net10.0\Program_02.sourcelink.json
+C:\Users\DTG-2026\Desktop\float_on\Program_02\obj\Debug\net10.0\Program_02.dll
+C:\Users\DTG-2026\Desktop\float_on\Program_02\obj\Debug\net10.0\refint\Program_02.dll
+C:\Users\DTG-2026\Desktop\float_on\Program_02\obj\Debug\net10.0\Program_02.pdb
+C:\Users\DTG-2026\Desktop\float_on\Program_02\obj\Debug\net10.0\Program_02.genruntimeconfig.cache
+C:\Users\DTG-2026\Desktop\float_on\Program_02\obj\Debug\net10.0\ref\Program_02.dll

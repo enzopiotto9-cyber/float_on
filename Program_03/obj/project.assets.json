@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DTG-2026\\Desktop\\arquivo_c#_01\\Program_03\\Program_03.csproj",
+      "projectUniqueName": "C:\\Users\\DTG-2026\\Desktop\\float_on\\Program_03\\Program_03.csproj",
       "projectName": "Program_03",
-      "projectPath": "C:\\Users\\DTG-2026\\Desktop\\arquivo_c#_01\\Program_03\\Program_03.csproj",
+      "projectPath": "C:\\Users\\DTG-2026\\Desktop\\float_on\\Program_03\\Program_03.csproj",
       "packagesPath": "C:\\Users\\DTG-2026\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DTG-2026\\Desktop\\arquivo_c#_01\\Program_03\\obj\\",
+      "outputPath": "C:\\Users\\DTG-2026\\Desktop\\float_on\\Program_03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DTG-2026\\AppData\\Roaming\\NuGet\\NuGet.Config"
